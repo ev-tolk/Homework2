@@ -1,0 +1,8 @@
+div.my_border{
+    border: solid 5px black;
+    height: 600px;
+    width: 600px;
+}
+div.top_left{width: 60%; height: 60%; background-color: rgba(255, 0, 0, 1); }
+div.bottom_right{width: 60%; height: 60%; background-color: rgba(0, 0, 255, 1); position: relative; top: -20%; left: 40%;}
+div.middle{width: 60%; height: 60%; background-color: rgba(0, 255, 0, 1); position: relative; top: -100%; left: 20%;}

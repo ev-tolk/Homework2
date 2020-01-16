@@ -1,0 +1,38 @@
+.header{
+    width: 90%;
+    height: 15%;
+    border: solid 2px black;
+    margin-left: 5%;
+    margin-right: 5%;
+    border-bottom-right-radius: 10px;
+    border-bottom-left-radius: 10px;
+    position: absolute;
+}
+.menu{
+    width: 10%;
+    height: 600px;
+    background-color: rgba(0, 204, 201, 0.5);
+    position: fixed;
+    margin-left: 5%;
+    float: left;
+    margin-top: 7.5%;
+}
+.central{
+    width: 80%;
+    height: 600px;
+    margin-left: 15%;
+    position: absolute;
+    margin-top: 7.5%;
+    float: left;
+}
+.footer{
+    width: 90%;
+    height: 15%;
+    border: solid 2px black;
+    margin-left: 5%;
+    margin-right: 5%;
+    border-top-right-radius: 10px;
+    border-top-left-radius: 10px;
+    position: absolute;
+    bottom: 0px;
+}

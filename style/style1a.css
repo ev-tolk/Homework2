@@ -1,0 +1,10 @@
+div.header_left{width: 49%; padding-right: 0.5%; background-color: rgba(255, 119, 0, 1); float: left; margin-bottom: 20px; height: 100px;}
+div.header_right{width: 49%; padding-left: 0.5%; background-color: rgba(255, 119, 0, 1); float: right; height: 100px;}
+div.container{position: relative; background-color: rgba(250, 233, 0, 1); clear: both; height: 350px; margin-bottom: 20px;}
+div.middle_left{width: 33%; margin-right: 0.25%; background-color:rgba(168, 0, 235, 1); float: left; margin-bottom: 20px; height: 220px;}
+div.middle_center{width: 33%; margin-left: 0.25%; margin-right: 0.25%; background-color:rgba(168, 0, 235, 1); float: left; height: 220px;}
+div.middle_right{width: 33%; margin-left: 0.25%; background-color:rgba(168, 0, 235, 1); float: left; height: 220px; margin-bottom: 20px;}
+div.footer1{width: 23.5%; float: left; margin-right: 1.5%; background-color: rgba(255, 61, 84, 1); height: 170px;}
+div.footer2{width: 23.5%; float: left; margin-right: 1%; margin-left: 0.5%; background-color: rgba(255, 61, 84, 1); height: 170px;}
+div.footer3{width: 23.5%; float: left; margin-right: 0.5%; margin-left: 1%; background-color:  rgba(255, 61, 84, 1); height: 170px;}
+div.footer4{width: 23.5%; float: left; margin-left: 1.5%; background-color:  rgba(255, 61, 84, 1); margin-bottom: 20px; height: 170px;}

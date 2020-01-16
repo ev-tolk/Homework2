@@ -1,0 +1,60 @@
+table#table1{
+    width: 100%;
+    padding: 5px;
+    border-collapse:collapse;
+    height: 100px;
+}
+#left{
+    background-color: orange;
+}
+#right{
+    background-color: orange;
+}
+#space{
+    width: 20px;
+}
+#center{
+    background-color: yellow;
+}
+table#table2{
+    width: 100%;
+    padding: 5px;
+    border-collapse:collapse;
+    height: 350px;
+    margin-top: 20px;
+}
+table#table3{
+    width: 100%;
+    padding: 5px;
+    border-collapse:collapse;
+    height: 220px;
+    margin-top: 20px;
+}
+#left1{
+    background-color: blueviolet;
+}
+#center1{
+    background-color: blueviolet;
+}
+#right1{
+    background-color: blueviolet;
+}
+table#table4{
+    width: 100%;
+    padding: 5px;
+    border-collapse:collapse;
+    height: 170px;
+    margin-top: 20px;
+}
+#first{
+    background-color: darkgreen;
+}
+#second{
+    background-color: darkgreen;
+}
+#third{
+    background-color: darkgreen;
+}
+#fourth{    
+    background-color: darkgreen;
+}
